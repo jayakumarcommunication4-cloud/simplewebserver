@@ -41,7 +41,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
     <head>
         <title>LAPTOP STORE⁂</title>
     <body>
-		<b><h1> align="center"> LAPTOP STORE</h1></b>
+		<b><h1>align="center"> LAPTOP STORE</h1></b>
 		
 		<b><h3>align="left">Jayakumar.R (26019389)</h3></b>
 
