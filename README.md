@@ -41,12 +41,11 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
     <head>
         <title>LAPTOP STORE⁂</title>
     <body>
-		<b><h1 align="center"> LAPTOP STORE</h1></b>
+		<b><h1> align="center"> LAPTOP STORE</h1></b>
 		
-		<b><h3 align="left">Jayakumar.R (26019389)</h3></b>
+		<b><h3>align="left">Jayakumar.R (26019389)</h3></b>
 
-		
-   	<table align="center" border="3">
+		<table align="center" border="3">
 	
 		<tr>
 			<th>S.NO.</td>
@@ -76,9 +75,8 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 			<td>85000/td>
 			
 		
-			
-		</tr>
-	</table>
+			</tr>
+	   </table>
     </body>
 </html>
 
